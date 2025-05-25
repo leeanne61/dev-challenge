@@ -16,7 +16,8 @@
         margin-right: 420px;
         margin-top: 200px;
         margin-bottom: 20px;*/
-        margin: 200px 420px 20px 480px;
+        margin: 300px 420px 20px 480px;
+        height:100vh;
 
 
       }
@@ -31,7 +32,7 @@
 
       }
 
-      img {
+      .blog-img {
         width: 100%; 
         height: auto;
         padding: 16px;
