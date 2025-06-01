@@ -43,7 +43,7 @@
       .newsletter img {
         display: block;
         margin: 0 auto;
-        margin-top: 100px;
+        margin-top: 20px;
 
       }
 
@@ -67,9 +67,9 @@
         font-size: 1rem;
         font-weight: 500;
         background-color: #E5E7EB;
-        color: #6C727F;
+        color: #000;
         padding: 15px 0px;
-        border-radius: 4px;
+        border-radius: 5px;
         border: 1px solid #E5E7EB;
         text-align: center;
         
@@ -83,7 +83,7 @@
         background-color: #284BCE;
         color:#ffffff;
         padding: 15px 0px;
-        border-radius: 4px;
+        border-radius: 5px;
         border: 1px solid #E5E7EB;
         margin-top: 10px;
         width: 100%;
