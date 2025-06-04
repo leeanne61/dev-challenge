@@ -119,6 +119,10 @@
         margin-bottom: 1.5rem;
        }
 
+       .articles-container {
+        padding: 0;
+       }
+
        .article-card {
         font-size: 1.125rem;
         align-items: center;
